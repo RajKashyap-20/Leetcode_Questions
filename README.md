@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
