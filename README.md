@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0061-rotate-list) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
