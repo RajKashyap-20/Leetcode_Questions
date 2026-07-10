@@ -61,4 +61,5 @@
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1179-reformat-department-table](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1179-reformat-department-table) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
