@@ -67,4 +67,5 @@
 | [1179-reformat-department-table](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1517-find-users-with-valid-e-mails](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1517-find-users-with-valid-e-mails) |
+| [1890-the-latest-login-in-2020](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
