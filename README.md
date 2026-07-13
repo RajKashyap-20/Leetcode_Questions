@@ -64,6 +64,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0707-design-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
