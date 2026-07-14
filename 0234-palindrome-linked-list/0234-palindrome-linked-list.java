@@ -10,40 +10,29 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-       
-       // To avoid any runtime error.
-        if(head.next==null){
-            return true;
+
+        Stack<Integer> stack = new Stack<>();
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            stack.push(slow.val);
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-      // finding the mid node.
-        ListNode fast=head;
-        ListNode slow =head;
-        while(fast.next!=null && fast.next.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
+        if (fast != null) {
+            slow = slow.next;
         }
 
-      // Reversing the second half of linked list
-        ListNode prev =null;
-        ListNode curr= slow.next;     // slow was mid node
-        while(curr!=null){
-            ListNode next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
-        }
-
-      
-        ListNode second =prev;         
-        ListNode first=head;
-        while(second!= null){
-            if(second.val!=first.val){
+        while (slow != null) {
+            if (stack.pop() != slow.val) {
                 return false;
             }
-            second=second.next;
-            first=first.next;
+            slow = slow.next;
         }
+
         return true;
     }
-}    
+}
