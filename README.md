@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0724-find-pivot-index](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -108,9 +109,18 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
