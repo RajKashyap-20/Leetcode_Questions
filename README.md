@@ -101,4 +101,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
