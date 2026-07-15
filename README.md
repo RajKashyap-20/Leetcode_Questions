@@ -22,6 +22,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0724-find-pivot-index](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -44,12 +45,14 @@
 | [0020-valid-parentheses](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
