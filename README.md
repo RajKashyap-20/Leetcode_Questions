@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -149,6 +150,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -157,5 +159,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
