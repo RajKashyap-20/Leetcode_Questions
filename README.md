@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -25,6 +26,7 @@
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -39,6 +41,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -56,6 +59,7 @@
 | [0015-3sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -63,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
