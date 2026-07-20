@@ -171,6 +171,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
