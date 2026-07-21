@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
