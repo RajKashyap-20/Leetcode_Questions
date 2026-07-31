@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0038-count-and-say) |
