@@ -25,6 +25,7 @@
 | [0015-3sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -259,4 +262,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
