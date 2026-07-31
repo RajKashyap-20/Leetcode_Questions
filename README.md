@@ -31,6 +31,7 @@
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0724-find-pivot-index](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -133,6 +135,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -152,6 +155,7 @@
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Greedy
 |  |
@@ -250,4 +254,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
