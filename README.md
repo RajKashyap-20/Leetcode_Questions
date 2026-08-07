@@ -259,6 +259,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
 ## Randomized
 |  |
 | ------- |
