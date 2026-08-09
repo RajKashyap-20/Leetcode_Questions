@@ -27,6 +27,7 @@
 | [0015-3sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
