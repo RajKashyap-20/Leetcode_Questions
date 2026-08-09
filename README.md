@@ -121,6 +121,7 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0177-nth-highest-salary) |
 | [0262-trips-and-users](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0584-find-customer-referee) |
 | [0608-tree-node](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0608-tree-node) |
