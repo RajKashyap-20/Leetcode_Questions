@@ -136,6 +136,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1321-restaurant-growth) |
 | [1517-find-users-with-valid-e-mails](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1890-the-latest-login-in-2020](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1890-the-latest-login-in-2020) |
 ## Prefix Sum
