@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -169,6 +170,7 @@
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Greedy
