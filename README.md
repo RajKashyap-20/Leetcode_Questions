@@ -73,6 +73,7 @@
 | [0125-valid-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
@@ -101,6 +103,7 @@
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
