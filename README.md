@@ -187,6 +187,7 @@
 | [0002-add-two-numbers](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -279,6 +282,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -310,6 +314,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0392-is-subsequence) |
 ## Trie
