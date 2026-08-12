@@ -28,6 +28,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
@@ -71,6 +72,7 @@
 | [0014-longest-common-prefix](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +104,7 @@
 | [0001-two-sum](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
