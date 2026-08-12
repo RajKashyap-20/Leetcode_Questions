@@ -32,6 +32,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [0198-house-robber](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0392-is-subsequence) |
 ## Trie
