@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0344-reverse-string) |
@@ -344,4 +345,28 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
