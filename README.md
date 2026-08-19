@@ -164,6 +164,7 @@
 | [1280-students-and-examinations](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1890-the-latest-login-in-2020](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1890-the-latest-login-in-2020) |
 ## Prefix Sum
