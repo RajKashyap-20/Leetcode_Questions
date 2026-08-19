@@ -168,6 +168,7 @@
 | [1517-find-users-with-valid-e-mails](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1661-average-time-of-process-per-machine](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1890-the-latest-login-in-2020](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1890-the-latest-login-in-2020) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Prefix Sum
 |  |
 | ------- |
