@@ -29,6 +29,7 @@
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0155-min-stack) |
@@ -369,4 +371,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
