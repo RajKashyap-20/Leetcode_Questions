@@ -33,6 +33,7 @@
 | [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0392-is-subsequence) |
