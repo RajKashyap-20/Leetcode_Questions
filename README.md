@@ -30,6 +30,7 @@
 | [0041-first-missing-positive](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -335,6 +337,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
