@@ -218,6 +218,7 @@
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0492-construct-the-rectangle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0492-construct-the-rectangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Greedy
 |  |
