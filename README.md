@@ -53,6 +53,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1046-last-stone-weight) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0567-permutation-in-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0984-string-without-aaa-or-bbb](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0984-string-without-aaa-or-bbb) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
