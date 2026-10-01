@@ -35,6 +35,7 @@
 | [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,6 +89,7 @@
 | [0038-count-and-say](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
@@ -127,6 +129,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -357,6 +360,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
@@ -365,6 +369,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -405,4 +410,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
