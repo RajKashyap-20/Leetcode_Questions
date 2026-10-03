@@ -48,6 +48,7 @@
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -117,6 +118,7 @@
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -143,6 +145,7 @@
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0567-permutation-in-string) |
