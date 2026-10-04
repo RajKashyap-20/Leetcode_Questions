@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0374-guess-number-higher-or-lower) |
@@ -45,6 +46,7 @@
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -115,6 +117,7 @@
 | [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
@@ -137,6 +140,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -234,6 +238,7 @@
 | [0149-max-points-on-a-line](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -348,6 +353,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
 ## Randomized
