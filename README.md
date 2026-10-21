@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0139-word-break) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
@@ -357,6 +359,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
