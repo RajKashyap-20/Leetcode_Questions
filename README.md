@@ -268,6 +268,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
