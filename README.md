@@ -370,6 +370,7 @@
 | [0268-missing-number](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0401-binary-watch) |
+| [0476-number-complement](https://github.com/RajKashyap-20/Leetcode_Questions/tree/master/0476-number-complement) |
 ## Randomized
 |  |
 | ------- |
